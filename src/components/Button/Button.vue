@@ -40,6 +40,6 @@ defineExpose({
   ref: _ref
 })
 </script>
-<style>
+<style scoped>
 
 </style>
